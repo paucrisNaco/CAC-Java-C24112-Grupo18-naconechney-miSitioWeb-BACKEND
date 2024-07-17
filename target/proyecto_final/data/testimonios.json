@@ -1,0 +1,47 @@
+{
+    "testimonios": {
+        "titulo": "Testimonios de Usuarios",
+        "testimonio": [
+            {
+                "usuario": "Juan Pérez",
+                "img": "img/logo60x60SF.png",
+                "contenido": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cupiditate sunt totam assumenda beatae nisi, nihil rerum reiciendis eveniet architecto!"
+            },
+            {
+                "usuario": "María García",
+                "img": "img/logo60x60SF.png",
+                "contenido": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cupiditate sunt totam assumenda beatae nisi, nihil rerum reiciendis eveniet architecto!"
+            },
+            {
+                "usuario": "Pedro Martínez",
+                "img": "img/logo60x60SF.png",
+                "contenido": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cupiditate sunt totam assumenda beatae nisi, nihil rerum reiciendis eveniet architecto!"
+            },
+            {
+                "usuario": "Ana Rodríguez",
+                "img": "img/logo60x60SF.png",
+                "contenido": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cupiditate sunt totam assumenda beatae nisi, nihil rerum reiciendis eveniet architecto!"
+            },
+            {
+                "usuario": "Juan Pérez",
+                "img": "img/logo60x60SF.png",
+                "contenido": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cupiditate sunt totam assumenda beatae nisi, nihil rerum reiciendis eveniet architecto!"
+            },
+            {
+                "usuario": "María García",
+                "img": "img/logo60x60SF.png",
+                "contenido": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cupiditate sunt totam assumenda beatae nisi, nihil rerum reiciendis eveniet architecto!"
+            },
+            {
+                "usuario": "Pedro Martínez",
+                "img": "img/logo60x60SF.png",
+                "contenido": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cupiditate sunt totam assumenda beatae nisi, nihil rerum reiciendis eveniet architecto!"
+            },
+            {
+                "usuario": "Ana Rodríguez",
+                "img": "img/logo60x60SF.png",
+                "contenido": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cupiditate sunt totam assumenda beatae nisi, nihil rerum reiciendis eveniet architecto!"
+            }
+        ]
+    }
+}

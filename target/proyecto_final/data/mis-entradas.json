@@ -1,0 +1,100 @@
+{
+    "mis-entradas": {
+        "titulo": "Mis entradas",
+        "entradas": [
+            {
+                "id": 1,
+                "titulo": "Mi primera entrada",
+                "contenido": "Este es el contenido de mi primera entrada.",
+                "autor": "María Gómez",
+                "fechaPublicacion": "2024-06-17",
+                "categoria": "Manualidades",
+                "palabrasClave": ["creatividad", "manualidades"],
+                "hashtags": ["#creatividad", "#manualidades"],
+                "interacciones": {
+                    "meGusta": 20,
+                    "comentarios": 5,
+                    "comentariosList": [
+                        "Comentario 1 de la primera entrada",
+                        "Comentario 2 de la primera entrada"
+                    ]
+                },
+                "archivos": ["documento1.pdf", "notas.txt"],
+                "multimedia": {
+                    "imagenes": ["img/entradaDestacada.png"],
+                    "videos": []
+                }
+            },
+            {
+                "id": 2,
+                "titulo": "Mi segunda entrada",
+                "contenido": "Este es el contenido de mi segunda entrada.",
+                "autor": "María Gómez",
+                "fechaPublicacion": "2024-06-18",
+                "categoria": "Tutoriales",
+                "palabrasClave": ["tutorial", "aprendizaje"],
+                "hashtags": ["#tutorial", "#aprendizaje"],
+                "interacciones": {
+                    "meGusta": 15,
+                    "comentarios": 2,
+                    "comentariosList": [
+                        "Comentario 1 de la segunda entrada"
+                    ]
+                },
+                "archivos": ["guia.pdf"],
+                "multimedia": {
+                    "imagenes": ["img/fondoIS.png"],
+                    "videos": []
+                }
+            },
+            {
+                "id": 3,
+                "titulo": "Mi tercer entrada",
+                "contenido": "Este es el contenido de mi tercer entrada.",
+                "autor": "María Gómez",
+                "fechaPublicacion": "2024-06-19",
+                "categoria": "Tutoriales",
+                "palabrasClave": ["tutorial", "aprendizaje"],
+                "hashtags": ["#tutorial", "#aprendizaje"],
+                "interacciones": {
+                    "meGusta": 15,
+                    "comentarios": 2,
+                    "comentariosList": [
+                        "Comentario 1 de la tercera entrada"
+                    ]
+                },
+                "archivos": ["guia.pdf"],
+                "multimedia": {
+                    "imagenes": [],
+                    "videos": ["video1.mp4"]
+                }
+            },
+            {
+                "id": 4,
+                "titulo": "Mi cuarta entrada",
+                "contenido": "Este es el contenido de mi cuarta entrada. Este es el contenido de mi cuarta entrada. Este es el contenido de mi cuarta entrada. Este es el contenido de mi cuarta entrada. Este es el contenido de mi cuarta entrada. Este es el contenido de mi cuarta entrada. Este es el contenido de mi cuarta entrada. Este es el contenido de mi cuarta entrada. Este es el contenido de mi cuarta entrada.",
+                "autor": "María Gómez",
+                "fechaPublicacion": "2024-06-06",
+                "categoria": "Tutoriales",
+                "palabrasClave": ["tutorial", "aprendizaje"],
+                "hashtags": ["#tutorial", "#aprendizaje"],
+                "interacciones": {
+                    "meGusta": 30,
+                    "comentarios": 5,
+                    "favoritos": 10,
+                    "comentariosList": [
+                        "Comentario 1 de la cuarta entrada. Comentario 1 de la cuarta entrada. Comentario 1 de la cuarta entrada. Comentario 1 de la cuarta entrada",
+                        "Comentario 2 de la cuarta entrada",
+                        "Comentario 3 de la cuarta entrada"
+                    ]
+                },
+                "archivos": [],
+                "multimedia": {
+                    "imagenes": [],
+                    "videos": ["video1.mp4"]
+                }
+            }
+        ]
+    }
+}
+  

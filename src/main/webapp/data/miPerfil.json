@@ -1,0 +1,42 @@
+{
+    "mi-perfil": {
+        "usuario": "Juan Pérez",
+        "img": "img/entradaDestacada.png",
+        "biografia": "Escribe aquí la biografía del usuario, si está disponible.",
+        "intereses": [
+            "Literatura", 
+            "Escritura creativa",
+            "Libros de fantasía"
+        ],
+        "tipo_usuario": "lector",
+        "redes_sociales": {
+            "instagram": "https://www.instagram.com/juan.perez",
+            "facebook": "https://www.facebook.com/juan.perez",
+            "tiktok": "https://www.tiktok.com/@juan.perez"
+        },
+        "ubicacion": {
+            "pais": "Argentina",
+            "ciudad": "Buenos Aires"
+        },
+        "fecha_registro": "2023-01-15",
+        "ultima_actividad": "2024-06-15",
+        "actividad_reciente": [
+            "Comentaste esta entrada",
+            "Añadiste a favoritos",
+            "Creaste una nueva entrada",
+            "Comentaste esta entrada",
+            "Añadiste a favoritos",
+            "Creaste una nueva entrada",
+            "Comentaste esta entrada",
+            "Añadiste a favoritos",
+            "Creaste una nueva entrada",
+            "Comentaste esta entrada",
+            "Añadiste a favoritos",
+            "Creaste una nueva entrada",
+            "Comentaste esta entrada",
+            "Añadiste a favoritos",
+            "Creaste una nueva entrada"
+        ]
+    }
+}
+
